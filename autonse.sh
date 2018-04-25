@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-# ***************************************
-# AutoNSE - Automate Nmap Search Engine *
-#        Momo Outaadi (M4ll0k)          *
-#    https://github.com/m4ll0k/AutoNSE  *
-# ***************************************
+# **********************************************
+# AutoNSE - Massive NSE AutoSploit/AutoScanner *
+#        Momo Outaadi (M4ll0k)                 *
+#    https://github.com/m4ll0k/AutoNSE         *
+# **********************************************
 
 # colors
 r='\e[1;31m'
