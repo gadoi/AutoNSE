@@ -16,4 +16,5 @@ $ bash autonse.sh
 ```
 $ bash autonse.sh
 ```
-![screen1]()
+![screen1](https://raw.githubusercontent.com/m4ll0k/AutoNSE/master/screen1.png)
+![screen2](https://raw.githubusercontent.com/m4ll0k/AutoNSE/master/screen2.png)
