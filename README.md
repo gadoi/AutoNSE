@@ -12,8 +12,8 @@ $ bash autonse.sh
 ```
 
 ## Exmaples
-__Scanning  port__
+
 ```
 $ bash autonse.sh
 ```
-![screen_ftp]()
+![screen1]()
