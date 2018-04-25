@@ -5,3 +5,15 @@ Massive NSE (Nmap Scripting Engine) AutoSploit and AutoScanner. The Nmap Scripti
 ![screen](https://raw.githubusercontent.com/m4ll0k/AutoNSE/master/screen.png)
 
 ## Installation
+```
+$ git clone https://github.com/m4ll0k/AutoNSE.git
+$ cd AutoNSE 
+$ bash autonse.sh
+```
+
+## Exmaples
+__Scanning  port__
+```
+$ bash autonse.sh
+```
+![screen_ftp]()
